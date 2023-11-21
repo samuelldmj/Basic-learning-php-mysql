@@ -27,7 +27,7 @@ if (!$con){
 // mysqli_query($con, $tb);
 
 // //adding a new column to a table
-// $new_col = "alter table mydbtest_info add test_country varchar(10)";
+// $new_col = "alter table mydbtest_info add test_description varchar(100)";
 // mysqli_query($con, $new_col);
 
 
